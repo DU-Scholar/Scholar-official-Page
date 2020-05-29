@@ -211,8 +211,7 @@ p {
 }
 
 .image1 {
-  width: 20%;
-  height: 25%;
+  width: 20%; 
   float: left;
   position: absolute;
   left: 15px;
@@ -220,17 +219,15 @@ p {
 }
 
 .image2 {
-  width: 25%;
-  height: 25%;
+  width: 23%;
   float: right;
   position: absolute;
   right: 10px;
-  top: 145px;
+  top: 220px;
 }
 
 .image3 {
   width: 25%;
-  height: 40%;
   float: left; 
   position: absolute;
   left: 10px;
@@ -248,7 +245,6 @@ p {
 
 .image5 {
   width: 25%;
-  height: 30%;
   float: left;
   position: absolute;
   left: 15px;
@@ -257,7 +253,6 @@ p {
 
 .image6 {
   width: 20%;
-  height: 25%;
   float: right;
   position: absolute;
   right: 15px;
@@ -269,11 +264,10 @@ p {
   }
 
 .image8 {
-  width: 25%;
-  height: 25%;
+  width: 20%;
   float: right;
   position: absolute;
-  right: 15px;
+  right: 30px;
   top: 1700px;
 }
 
@@ -505,7 +499,6 @@ p {
   
   .image1 {
     width: 20%;
-    height: 25%;
     float: left;
     position: absolute;
     left: 15px;
@@ -517,11 +510,10 @@ p {
   
   .image3 {
     width: 25%;
-    height: 40%;
     float: left; 
     position: absolute;
     left: 10px;
-    top: 4px;
+    top: 45px;
   }
   
   .image4 {
@@ -530,7 +522,6 @@ p {
   
   .image5 {
     width: 25%;
-    height: 30%;
     float: left;
     position: absolute;
     left: 15px;
@@ -552,7 +543,6 @@ p {
   
   .image8 {
     width: 25%;
-    height: 25%;
     float: left;
     position: absolute;
     left: 15px;
